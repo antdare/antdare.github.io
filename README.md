@@ -1,5 +1,5 @@
 # antdare.github.io
-```python
+```javascript
 // setup() is called once at page-load
 function setup() {
     createCanvas(800,800); // make an HTML canvas element width x height pixels
